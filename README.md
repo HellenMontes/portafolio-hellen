@@ -1,5 +1,5 @@
 # Portafolio Adaptable (Responsive) con Bootstrap 5
-LINK DEMO DEL PROYECTO (https://portafolio-hellen.vercel.app/)
+
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
